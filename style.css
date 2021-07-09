@@ -39,3 +39,25 @@
 .catagories img{
     width: 150px;
 }
+.card {
+    border: none;
+    box-shadow: 5px 5px 10px lightgray;
+}
+#subscribe {
+    height: 300px;
+}
+#subscribe h6 {
+    color: dimgray;
+    font-family: 'Sedgwick Ave', cursive;
+}
+.footer {
+    text-align: center;
+}
+
+a {
+    text-decoration: none;
+    font-family: 'Sedgwick Ave', cursive;
+}
+#subscribe h3 {
+    font-family: 'Sedgwick Ave', cursive;
+}
